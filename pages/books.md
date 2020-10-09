@@ -13,4 +13,8 @@ title: 读书
 | 2 | 《C 程序设计语言·第二版》 |  Brian W. Kernighan、Dennis M. Ritchie  |  👩‍💻 |
 | 3 | 《深入理解计算机系统·第三版》 | Randal E. Bryant、David R. O'Hallaron  | 👩‍💻 |
 | 4 | 《Netty 4 核心原理》 | 谭勇德  | 👩‍💻 |
-| 5 | 《三体》 | 刘慈欣  | 👩‍💻 |
+| 5 | 《三体》 | 刘慈欣  | 🎈 |
+
+### 状态
+- 进行中：👩‍💻
+- 已结束：🎈
