@@ -14,6 +14,7 @@ title: 读书
 | 3 | 《深入理解计算机系统·第三版》 | Randal E. Bryant、David R. O'Hallaron  | 👩‍💻 |
 | 4 | 《Netty 4 核心原理》 | 谭勇德  | 👩‍💻 |
 | 5 | 《三体》 | 刘慈欣  | 🎈 |
+| 6 | 《野性的呼唤》 | Jack London | 🎈 | 
 
 ### 状态
 - 进行中：👩‍💻
