@@ -4,8 +4,8 @@
 }
 
 html {
-  color: #333333;
-  background: #ffffff;
+  color: #5b4636;
+  background: #f4ecd8;
   scroll-behavior: smooth;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -81,15 +81,15 @@ input:-webkit-autofill {
 }
 ::-moz-selection {
   background-color: #4a4a4a;
-  color: #f9f9f9;
+  color: #f4ecd8;
 }
 ::selection {
   background-color: #4a4a4a;
-  color: #f9f9f9;
+  color: #f4ecd8;
 }
 ::-moz-selection {
   background-color: #4a4a4a;
-  color: #f9f9f9;
+  color: #f4ecd8;
 }
 .hover-underline {
   position: relative;
@@ -179,7 +179,7 @@ input:-webkit-autofill {
   transform: translateX(-50%) rotate(45deg);
 }
 #to-top > span:first-child {
-  background-color: #ffffff;
+  background-color: #f4ecd8;
 }
 #to-top > span:last-child {
   background-color: #000000;
