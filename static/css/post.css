@@ -83,20 +83,20 @@
   line-height: 1;
 }
 .page-post code {
-  background-color: #eeeeee;
+  background-color: #f6f8fa;
   word-break: break-all;
   padding: 0 4px;
   margin: 0 2px;
   border-radius: 4px;
-  color: #4d4d4c;
+  color: #f6f8fa;
 }
 .page-post pre {
   font-size: 0;
   padding: 10px;
   overflow: auto;
-  border-radius: 2px;
-  background-color: #f7f7f7;
-  max-height: 610px;
+  border-radius: 0;
+  background-color: #f6f8fa;
+  max-height: 800px;
   -moz-tab-size: 4;
   -o-tab-size: 4;
   tab-size: 4;
