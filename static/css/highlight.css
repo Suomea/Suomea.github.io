@@ -6,7 +6,6 @@
 }
 .highlight .cp {
     color: #f5f2f0;
-    font-weight: bold;
 }
 .highlight .c1 {
     color: #f5f2f0;
@@ -14,7 +13,6 @@
 }
 .highlight .cs {
     color: #f5f2f0;
-    font-weight: bold;
     font-style: italic;
 }
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
@@ -26,12 +24,11 @@
     background-color: #999999;
 }
 .highlight .gd {
-    color: #000000;
+    color: #3b3b3c;
     background-color: #999999;
 }
 .highlight .ge {
-    color: #000000;
-    font-style: italic;
+    color: #3b3b3c;
 }
 .highlight .gr {
     color: #aa0000;
@@ -40,7 +37,7 @@
     color: #999999;
 }
 .highlight .gi {
-    color: #000000;
+    color: #3b3b3c;
     background-color: #f5f2f0;
 }
 .highlight .go {
@@ -49,9 +46,6 @@
 .highlight .gp {
     color: #555555;
 }
-.highlight .gs {
-    font-weight: bold;
-}
 .highlight .gu {
     color: #f5f2f0;
 }
@@ -59,32 +53,25 @@
     color: #aa0000;
 }
 .highlight .kc {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .kd {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .kn {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .kp {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .kr {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .kt {
     color: #445588;
-    font-weight: bold;
 }
 .highlight .k, .highlight .kv {
-    color: #000000;
-    font-weight: bold;
+    color: #3b3b3c;
 }
 .highlight .mf {
     color: #009999;
@@ -151,29 +138,24 @@
 }
 .highlight .nc {
     color: #445588;
-    font-weight: bold;
 }
 .highlight .no {
     color: #008080;
 }
 .highlight .nd {
     color: #3c5d5d;
-    font-weight: bold;
 }
 .highlight .ni {
     color: #800080;
 }
 .highlight .ne {
     color: #990000;
-    font-weight: bold;
 }
 .highlight .nf, .highlight .fm {
     color: #990000;
-    font-weight: bold;
 }
 .highlight .nl {
     color: #990000;
-    font-weight: bold;
 }
 .highlight .nn {
     color: #555555;
@@ -194,11 +176,11 @@
     color: #008080;
 }
 .highlight .ow {
-    color: #000000;
+    color: #3b3b3c;
     font-weight: bold;
 }
 .highlight .o {
-    color: #000000;
+    color: #3b3b3c;
     font-weight: bold;
 }
 .highlight .w {
