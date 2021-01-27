@@ -43,14 +43,6 @@
 .page-post blockquote {
   background-color: #f5f2f0;
   padding: 1em;
-  margin: 2em;
-  border-radius: 1em;
-  font-family: Consolas,Monaco,"Andale Mono",monospace;
-  border-width: 0.3em;
-  border-color: rgb(224, 223, 204);
-  border-style: solid;
-  text-shadow: 0 1px white;
-  overflow: auto;
 }
 
 .page-post a {
@@ -90,12 +82,13 @@
   line-height: 1;
 }
 .page-post code {
-  background-color: #f6f8fa;
+  background-color: #f5f2f0;
   word-break: break-all;
   padding: 0 4px;
   margin: 0 2px;
   border-radius: 4px;
   color: #666666;
+  font-family: Consolas,Monaco,"Andale Mono",monospace;
 }
 .page-post pre {
   font-size: 0;
@@ -109,8 +102,9 @@
   tab-size: 4;
 }
 .page-post pre code {
-  background-color: transparent;
+  background-color: #f5f2f0;
   font-size: 13px;
+  font-family: Consolas,Monaco,"Andale Mono",monospace;
   padding: 0;
   margin: 0;
   line-height: 1.6;
