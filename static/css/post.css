@@ -42,7 +42,7 @@
 }
 .page-post blockquote {
   border-left: 3px solid #333333;
-  background-color: #f7f7f7;
+  background-color: #f6f8fa;
   padding: 9px 9px 9px 15px;
 }
 
@@ -88,7 +88,7 @@
   padding: 0 4px;
   margin: 0 2px;
   border-radius: 4px;
-  color: #f6f8fa;
+  color: #000000;
 }
 .page-post pre {
   font-size: 0;
