@@ -41,9 +41,16 @@
   font-weight: bold;
 }
 .page-post blockquote {
-  border-left: 3px solid #333333;
-  background-color: #f6f8fa;
-  padding: 9px 9px 9px 15px;
+  background-color: #f5f2f0;
+  padding: 1em;
+  margin: 2em;
+  border-radius: 1em;
+  font-family: Consolas,Monaco,"Andale Mono",monospace;
+  border-width: 0.3em;
+  border-color: rgb(224, 223, 204);
+  border-style: solid;
+  text-shadow: 0 1px white;
+  overflow: auto;
 }
 
 .page-post a {
