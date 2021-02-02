@@ -113,8 +113,8 @@
 }
 .page-post hr {
   border: none;
-  height: 3px;
-  background-color: #eeeeee;
+  height: 1px;
+  background-color: #5b4636;
 }
 .page-post table {
   min-width: 100%;
@@ -134,7 +134,7 @@
   text-align: left;
 }
 .page-post table tr:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: #f4ecd8;
 }
 .page-post .table-container {
   overflow: auto;
