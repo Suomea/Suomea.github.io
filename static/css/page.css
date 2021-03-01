@@ -19,6 +19,7 @@
   margin-right: 10px;
 }
 .list-post li .title {
+  font-size: 27px;
   width: 0;
   flex-grow: 1;
   padding: 4px 0;
@@ -27,7 +28,7 @@
   text-overflow: ellipsis;
 }
 .list-post li .title a {
-  font-size: 15px;
+  font-size: 27px;
 }
 .list-post li .categories {
   flex-shrink: 0;

@@ -4,12 +4,12 @@
   word-break: break-all;
 }
 .page-post .title {
-  font-size: 18px;
+  font-size: 27px;
   font-weight: bold;
   color: #666666;
 }
 .page-post .subtitle {
-  font-size: 12px;
+  font-size: 21px;
   color: #999999;
 }
 .page-post .post > * {
