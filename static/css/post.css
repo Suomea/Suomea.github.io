@@ -13,7 +13,8 @@
   color: #999999;
 }
 .page-post .post > * {
-  margin: 18px 0;
+  margin-top: 18px;
+  margin-bottom: 10px;
 }
 .page-post .post > iframe {
   margin: 0;
