@@ -19,7 +19,7 @@ title: 读书
 | 2 | 《C 程序设计语言·第二版》 |  Brian W. Kernighan、Dennis M. Ritchie  |  👩‍💻 |
 | 3 | 《深入理解计算机系统·第三版》 | Randal E. Bryant、David R. O'Hallaron  | 👩‍💻 |
 | 4 | 《Netty 4 核心原理》 | 谭勇德  | 👩‍💻 |
-| 5 | 《霍乱时期的爱情》 | 加西亚·马尔克斯 | 👩‍💻 | 
+| 5 | 《霍乱时期的爱情》 | 加西亚·马尔克斯 | 🎈 | 
 | 6 | 《Tomcat 架构解析》 | 刘光瑞 | 👩‍💻 | 
 | 7 | 《Spring 源码深度解析·第二版）》 | 郝佳 | 👩‍💻 | 
 | 8 | 《MySQL 技术内幕(InnoDB存储引擎)·第2版》 | 姜承尧 | 👩‍💻 | 
