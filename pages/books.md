@@ -24,6 +24,7 @@ title: 读书
 | 7 | 《Spring 源码深度解析·第二版）》 | 郝佳 | 👩‍💻 | 
 | 8 | 《MySQL 技术内幕(InnoDB存储引擎)·第2版》 | 姜承尧 | 👩‍💻 | 
 | 9 | 《百年孤独》 | 加西亚·马尔克斯 | 👩‍💻 | 
+| 10 | 《操作系统导论》 | Remzi H. Arpaci-Dusseau、Andrea C. Arpaci-Dusseau | 👩‍💻 | 
 
 
 ## 2020
