@@ -25,6 +25,7 @@ title: 读书
 | 8 | 《MySQL 技术内幕(InnoDB存储引擎)·第2版》 | 姜承尧 | 👩‍💻 | 
 | 9 | 《百年孤独》 | 加西亚·马尔克斯 | 👩‍💻 | 
 | 10 | 《操作系统导论》 | Remzi H. Arpaci-Dusseau、Andrea C. Arpaci-Dusseau | 👩‍💻 | 
+| 11 | 《MySQL 是怎样运行的·从根上理解 MySQL》 | 小孩子4919 | 👩‍💻 | 
 
 
 ## 2020
