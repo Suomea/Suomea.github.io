@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Consolas';
+  font-family: 'STSong';
   src: url('../font/consola.ttf');
 }
 
@@ -16,7 +16,7 @@ html {
   font-family: Consolas, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
 }
 body {
-  max-width: 680px;
+  max-width: 900px;
   padding: 0 14px;
   margin: 0 auto;
 }
