@@ -6,8 +6,9 @@ title: 读书
 ## 状态
 
 ----
-- 进行中：👩‍💻
-- 已结束：🎈
+- 摆上书架：📚
+- 开始阅读：👩‍💻
+- 阅读完毕：🎈
 
 ## 2021
 
@@ -15,17 +16,17 @@ title: 读书
 
 | 序号 |   书名   |   作者    |  状态 |
 | ---: | ---: | ---: | ---: |
-| 1 | 《Spring Cloud 微服务实战》 | 翟永超 |  👩‍💻 |
-| 2 | 《C 程序设计语言·第二版》 |  Brian W. Kernighan、Dennis M. Ritchie  |  👩‍💻 |
-| 3 | 《深入理解计算机系统·第三版》 | Randal E. Bryant、David R. O'Hallaron  | 👩‍💻 |
-| 4 | 《Netty 4 核心原理》 | 谭勇德  | 👩‍💻 |
+| 1 | 《Spring Cloud 微服务实战》 | 翟永超 |  📚 | 
+| 2 | 《C 程序设计语言·第二版》 |  Brian W. Kernighan、Dennis M. Ritchie  |  📚 |
+| 3 | 《深入理解计算机系统·第三版》 | Randal E. Bryant、David R. O'Hallaron  | 📚 |
+| 4 | 《Netty 4 核心原理》 | 谭勇德  | 📚 |
 | 5 | 《霍乱时期的爱情》 | 加西亚·马尔克斯 | 🎈 | 
-| 6 | 《Tomcat 架构解析》 | 刘光瑞 | 👩‍💻 | 
+| 6 | 《Tomcat 架构解析》 | 刘光瑞 | 📚 | 
 | 7 | 《Spring 源码深度解析·第二版）》 | 郝佳 | 👩‍💻 | 
-| 8 | 《MySQL 技术内幕(InnoDB存储引擎)·第2版》 | 姜承尧 | 👩‍💻 | 
+| 8 | 《MySQL 技术内幕(InnoDB存储引擎)·第2版》 | 姜承尧 | 📚 | 
 | 9 | 《百年孤独》 | 加西亚·马尔克斯 | 👩‍💻 | 
-| 10 | 《操作系统导论》 | Remzi H. Arpaci-Dusseau、Andrea C. Arpaci-Dusseau | 👩‍💻 | 
-| 11 | 《MySQL 是怎样运行的·从根上理解 MySQL》 | 小孩子4919 | 👩‍💻 | 
+| 10 | 《操作系统导论》 | Remzi H. Arpaci-Dusseau、Andrea C. Arpaci-Dusseau | 📚 | 
+| 11 | 《MySQL 是怎样运行的·从根上理解 MySQL》 | 小孩子4919 | 🎈 | 
 
 
 ## 2020
