@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'STSong';
-  src: url('../font/consola.ttf');
+  src: url('../font/STSong.ttf');
 }
 
 html {
@@ -13,7 +13,7 @@ html {
   text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: Consolas, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'STSong', 'Consola', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
 }
 body {
   max-width: 900px;
