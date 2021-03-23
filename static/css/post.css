@@ -21,26 +21,32 @@
 }
 
 .page-post h1 {
+  padding-top: 20px;
   font-size: 25px;
   font-weight: bold;
 }
 .page-post h2 {
+  padding-top: 17px;
   font-size: 23px;
   font-weight: bold;
 }
 .page-post h3 {
+  padding-top: 14px;
   font-size: 21px;
   font-weight: bold;
 }
 .page-post h4 {
+  padding-top: 11px;
   font-size: 19px;
   font-weight: bold;
 }
 .page-post h5 {
+  padding-top: 8px;
   font-size: 17px;
   font-weight: bold;
 }
 .page-post h6 {
+  padding-top: 5px;
   font-size: 15px;
   font-weight: bold;
 }
