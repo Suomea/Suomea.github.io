@@ -17,13 +17,13 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 菜单
 menu:
-  - title: 首页
+  - title: Home
     url: /
-  - title: 归类
+  - title: Categories
     url: /pages/categories.html
-  - title: 读书
+  - title: Books
     url: /pages/books.html
-  - title: 关于
+  - title: About me
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false

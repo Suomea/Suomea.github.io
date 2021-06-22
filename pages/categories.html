@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 文章分类
+title: Categories
 ---
 
 <div class="page page-categories">
   <div class="list-category">
-    <h1 style="font-size: 25px; color: #666666; font-weight: bold">所有分类</h1>
+    <h1 style="font-size: 25px; color: #666666; font-weight: bold">All categories</h1>
     <div>
       {%- for category in site.categories %}
       <a href="javascript:document.getElementById('{{ category[0] }}').scrollIntoView()">{{ category[0] }}</a>

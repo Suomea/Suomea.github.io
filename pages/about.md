@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 关于我
+title: About me
 ---
 
 陈亮（Jacky），现在的职业是 Java 后端工程师，专注于分布式系统的开发，suomea.chen@outlook.com。
