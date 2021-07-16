@@ -28,7 +28,7 @@ title: Books
 | 10 | 《操作系统导论》 | Remzi H. Arpaci-Dusseau、Andrea C. Arpaci-Dusseau | 👩‍💻 | 
 | 11 | 《MySQL 是怎样运行的·从根上理解 MySQL》 | 小孩子4919 | 🎈 | 
 | 12 | 《Java 数据结构和算法·第二版》 | Robert Lafore | 👩‍💻 | 
-| 13 | 《正红旗下》 | 老舍 | 👩‍💻 | 
+| 13 | 《正红旗下》 | 老舍 | 🎈 | 
 
 
 ## 2020
